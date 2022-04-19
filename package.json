@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "mongodb": "^4.5.0"
+  },
+  "name": "comp20",
+  "version": "1.0.0",
+  "main": "hello.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "load heroku-demo.js",
+    "start": "load heroku-demo.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "this runs online"
+}
