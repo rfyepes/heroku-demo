@@ -10,6 +10,10 @@
     "test": "load heroku-demo.js",
     "start": "load heroku-demo.js"
   },
+  "repository": {
+  "type": "git",
+  "url": ""
+  },
   "author": "",
   "license": "ISC",
   "description": "this runs online"
